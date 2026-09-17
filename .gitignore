@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# MediaPipe model (downloaded at setup — see scripts/fetch_model.py)
+models/*.task
+models/
+
+# App-generated runtime files
+config.json
+config.local.json
+hand_filter_recording.mp4
+hand_filter_recording.avi
+hand_filter_shot_*.png
+recordings/
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp

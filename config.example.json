@@ -1,0 +1,11 @@
+{
+  "filter": 0,
+  "theme": 0,
+  "mirror": true,
+  "ss": 1,
+  "width": 1280,
+  "height": 720,
+  "track_width": 320,
+  "record_path": "hand_filter_recording.mp4",
+  "hud": true
+}
